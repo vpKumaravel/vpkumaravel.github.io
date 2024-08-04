@@ -19,6 +19,8 @@ Detecting and removing noisy sensors (such as flat-line sensors) is one of the c
 
 **Performance-efficient EEG Channel Reduction using Knowledge Distillation framework**
 
+Reducing the number of EEG channels can enhance the ecological validity of studies but often leads to decreased performance in machine learning algorithms used for downstream analysis. In this project, in collaboration with researchers from EPFL (Switzerland), we developed a Knowledge Distillation-based framework for EEG channel reduction that preserves the performance achieved with all EEG channels.
+
 **Deep-Learning based projects**
 1. Attempted to train a DL classifier to detect EEG bad channels (together with a Master thesis student) - see [here](https://ieeexplore.ieee.org/document/9672305) for the paper.
 2. Interpreted a DL classifier why/how models find noisy EEG channels (together with Mr. Francesco Paissan, FBK, Italy) - see [here](https://ieeexplore.ieee.org/document/9881381) for the paper.
