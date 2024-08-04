@@ -16,3 +16,9 @@ One of the challenges in studying human cognitive development is the lack of rel
 **Automatic Noisy/Bad EEG Sensors Detection**
 
 Detecting and removing noisy sensors (such as flat-line sensors) is one of the common preprocessing steps in EEG and MEG data analysis pipeline. I introduced a novel, density-based bad channel detection using the Local Outlier Factor (LOF) algorithm. The novelty is that the method does not assume any distribution for the data and employs nearest neighbors approach to find the sensors that 'locally' deviated from its neighbors. More information can be found [here](). The algorithm is available as EEGLAB plugin (download [here](https://github.com/vpKumaravel/detectbadchannelLOF/blob/main/README.md)),  MEEG-kit (download [here](https://github.com/nbara/python-meegkit/blob/master/meegkit/lof.py)) and MNE-Python (download [here](https://mne.tools/stable/generated/mne.preprocessing.find_bad_channels_lof.html#mne.preprocessing.find_bad_channels_lof)) .
+
+**Non-EEG (Personal) Projects**
+
+1. ECG data cleaning using the state-of-the-art algorithms for reliable estimation of Heart Rate Variability.
+2. EDA (Electrodermal Activity) data cleaning and processing to extract tonic components.
+3. Interpreting the Deep Learning (DL) model that classified vocalization of chimpanzees by using signal processing methods such as Fast Fourier Transform (FFT).
