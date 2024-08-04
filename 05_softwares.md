@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Softwares"
+title: "Software Tools"
 order: 5
 permalink: /softwares/
 ---
