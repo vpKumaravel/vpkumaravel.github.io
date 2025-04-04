@@ -2,7 +2,7 @@
 layout: page
 title: "Software Tools"
 order: 5
-permalink: /softwares/
+permalink: /software/
 ---
 
 Here are some software toolboxes I have developed for EEG data analysis:
