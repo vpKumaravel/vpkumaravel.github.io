@@ -7,7 +7,7 @@ permalink: /projects/
 
 **Speech Perception In Noise Enhancement (SPINE) via EEG-based Neurofeedback**
 
-I am awarded a fully funded research grant for a period of 2 years (of which 9 months will be spent as a residential fellowship) to work on this project. The goal is to determine if neurofeedback on auditory selective attention enhances the perception of speech in noisy environments in everyday life. The hypothesis is that providing users with feedback on their auditory selective attention skills (assessed through the classical competing speech paradigm) enables them to adjust their perceptual abilities, thereby improving their performance in speech-in-noise tasks.  I collaborate with Prof. Dr. Stefan Debener and Dr. Martin Bleichner from the Department of Psychology (Neuropsychology Lab), University of Oldenburg, Germany.
+I am awarded a fully funded research grant for a period of 2 years (of which 10 months will be spent as a residential fellowship) to work on this project. The goal is to determine if neurofeedback on auditory selective attention enhances the perception of speech in noisy environments in everyday life. The hypothesis is that providing users with feedback on their auditory selective attention skills (assessed through the classical competing speech paradigm) enables them to adjust their perceptual abilities, thereby improving their performance in speech-in-noise tasks.  I collaborate with Prof. Dr. Stefan Debener and Dr. Martin Bleichner from the Department of Psychology (Neuropsychology Lab), University of Oldenburg, Germany.
 
 **Newborn EEG Artifact Removal (NEAR) Pipeline**
 
