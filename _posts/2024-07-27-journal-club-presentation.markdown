@@ -17,5 +17,3 @@ on confounding factors such as spatial biases and acoustic differences between s
 The authors systematically investigate potential sources of bias and highlight important 
 caveats for interpreting decoding accuracy — a timely and necessary contribution given 
 the rapid growth of auditory attention decoding research.
-
-📥 [Download presentation slides](/assets/slides/Yamazaki2024_27072024.pdf)
