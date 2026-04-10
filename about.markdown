@@ -1,6 +1,5 @@
 ---
 layout: page
-title:
 order: 1
 permalink: /about/
 ---
