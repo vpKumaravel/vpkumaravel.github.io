@@ -3,7 +3,7 @@ layout: page
 title:
 order: 1
 permalink: /about/
----
+
 
 
 I am a post-doctoral research fellow at the Università degli Studi "G. d'Annunzio"  Chieti–Pescara, Italy, where I study the coupling between brain oscillations and respiratory rhythms during meditation in both expert and novice practitioners. This work sits at the intersection of interoception, altered states of consciousness, and contemplative practices (a research direction that has long defined my scientific ambitions).
