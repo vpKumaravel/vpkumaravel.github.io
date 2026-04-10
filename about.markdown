@@ -47,6 +47,8 @@ Software Engineer, Larsen & Toubro Infotech, Chennai, India.
 2008-2012<br>
 B.Eng. Electronics and Communications Engineering, Anna University, Chennai, India.
 
+---
+
 ## Publications
 
 For up-to-date lists of publications, please visit [Google Scholar](https://scholar.google.com/citations?user=yeMiiZwAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-9286-4687).
