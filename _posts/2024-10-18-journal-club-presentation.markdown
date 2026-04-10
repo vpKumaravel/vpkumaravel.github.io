@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "Journal Club Presentation – NELI Group"
+title: "Event-Related Potential Correlates of Mindfulness Meditation Competence"
 date: 2024-10-18
-categories: [journal club, neurofeedback, EEG]
+categories: [journal club, meditation, EEG]
 ---
 
-As a part of the [NELI group's Journal Club](https://uol.de/en/psychology/neurophysiology/neli-journal-club), I presented the paper titled:
+As part of the [NELI Group Journal Club](https://uol.de/en/psychology/neurophysiology/neli-journal-club) 
+at the University of Oldenburg, I presented the following paper:
 
-**_Event-related potential correlates of mindfulness meditation competence_**
+**Atchley et al. (2016)** — *Event-related potential correlates of mindfulness meditation competence*
 
-on **October 18, 2024**.
+This study examines how mindfulness meditation competence is reflected in ERP components, 
+comparing experienced meditators with novices. The findings suggest that sustained 
+meditation practice reshapes early attentional processing, with experienced practitioners 
+showing distinct neural signatures in response to distracting stimuli. The work provides 
+electrophysiological evidence for the cognitive benefits of long-term meditation practice.
 
-📥 You can download the presentation slides [here](/assets/slides/Atchley2016_18102024.pdf).
-
-
+📥 [Download presentation slides](/assets/slides/Atchley2016_18102024.pdf)
