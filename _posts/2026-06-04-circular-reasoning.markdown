@@ -1,4 +1,9 @@
-# Circularity in Philosophy: A Simple Test
+---
+layout: post
+title: "Circularity in Philosophy: A Simple Test"
+date: 2026-06-05
+categories: [philosophy]
+---
 
 Circularity occurs when an argument assumes what it is trying to prove. Instead of providing evidence for a conclusion, the premises already contain or depend on that conclusion.
 
