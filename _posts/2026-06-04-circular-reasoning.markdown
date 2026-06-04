@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Circularity in Philosophy: A Simple Test"
-date: 2026-06-05
+date: 2026-06-04
 categories: [philosophy]
 ---
 
