@@ -15,18 +15,16 @@ My PhD focused on the development of signal processing pipelines tailored for EE
 
 ## Research interests
 
-- Brain–body coupling
-- Interoception and mental health
-- Auditory attention decoding and neural entrainment
-- EEG signal processing for developmental and clinical populations
-- Machine learning for neural decoding and neurofeedback
+- Brain-body interactions
+- Consciousness and Sense of Self
+- Seamless neurotechnology for mental wellness
 
 ---
 
 ## Education - Career
 
 Since 2026 (March)
-Research Scholarship Fellow at the Università degli Studi "G. d'Annunzio"  Chieti–Pescara, Italy
+Postdoctoral Research Fellow at the Università degli Studi "G. d'Annunzio"  Chieti–Pescara, Italy
 
 2024 (February) - 2026 (February) <br>
 Scientific Assistant at the Carl von Ossietzky University Oldenburg, Germany.
